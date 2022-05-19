@@ -6,8 +6,6 @@ Data from this project came from the [New York State Department of Education] (d
 This database contains school, district, county, and statewide enrollment by grade, race/ethnicity, gender, and other groups.
 
 
-
-
 ```sh 2020-2021 Graduation Rate Database ```
 This database contains annual graduation, and dropout data for the state as well as by county, Need to Resource Capacity group, district, public school and charter school. Annual graduation data is included for the current four-year cohort (June and August graduates), five-year June and August, and six-year June and August cohorts.
 
@@ -16,7 +14,7 @@ The extensions of both files were accdb which could be opened using MS Access.
 
 ```sh ACC HS Chronic Absenteeism --- Is the xlsx file that shows absenteeism data as extracted from Enrollment Database
 
-ACC HS Graduation Rate -- Is the xlsx file extracted from the graduation data as listed above.
+```sh ACC HS Graduation Rate -- Is the xlsx file extracted from the graduation data as listed above.
 ```
 #### Merging and cleaning
 
