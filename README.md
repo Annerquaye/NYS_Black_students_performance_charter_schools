@@ -12,10 +12,10 @@ This database contains annual graduation, and dropout data for the state as well
 
 The extensions of both files were accdb which could be opened using MS Access. 
 
-``` ACC HS Chronic Absenteeism --- Is the xlsx file that shows absenteeism data as extracted from Enrollment Database
+``` ACC HS Chronic Absenteeism --- Is the xlsx file that shows absenteeism data as extracted from Enrollment Database```
 
-``` ACC HS Graduation Rate -- Is the xlsx file extracted from the graduation data as listed above.
-```
+``` ACC HS Graduation Rate -- Is the xlsx file extracted from the graduation data as listed above.```
+
 #### Merging and cleaning
 
 In order to be able to juxtapose the impact of absenteeism on graduation rate, the two xlsx files were merged on `Institution ID` which is unique for schools as captured in both data files.
