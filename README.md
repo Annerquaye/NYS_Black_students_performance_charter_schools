@@ -1,16 +1,15 @@
 ## Black students' performance in NYC Charter Schools
 Data from this project came from the [New York State Department of Education] (data.nysed.gov). The files accessed for this analysis were the
 
-``` sh 2020-2021 Enrollment Database
+``` sh 2020-2021 Enrollment Database ```
 
 This database contains school, district, county, and statewide enrollment by grade, race/ethnicity, gender, and other groups.
-```
 
 
 
-```sh 2020-2021 Graduation Rate Database
+
+```sh 2020-2021 Graduation Rate Database ```
 This database contains annual graduation, and dropout data for the state as well as by county, Need to Resource Capacity group, district, public school and charter school. Annual graduation data is included for the current four-year cohort (June and August graduates), five-year June and August, and six-year June and August cohorts.
-```
 
 
 The extensions of both files were accdb which could be opened using MS Access. 
