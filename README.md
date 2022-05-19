@@ -1,7 +1,7 @@
 ## Black students' performance in NYC Charter Schools
 Data from this project came from the [New York State Department of Education] (data.nysed.gov). The files accessed for this analysis were the
 
-``` sh 2020-2021 Enrollment Database ```
+``` 2020-2021 Enrollment Database ```
 
 This database contains school, district, county, and statewide enrollment by grade, race/ethnicity, gender, and other groups.
 
@@ -12,9 +12,9 @@ This database contains annual graduation, and dropout data for the state as well
 
 The extensions of both files were accdb which could be opened using MS Access. 
 
-```sh ACC HS Chronic Absenteeism --- Is the xlsx file that shows absenteeism data as extracted from Enrollment Database
+``` ACC HS Chronic Absenteeism --- Is the xlsx file that shows absenteeism data as extracted from Enrollment Database
 
-```sh ACC HS Graduation Rate -- Is the xlsx file extracted from the graduation data as listed above.
+``` ACC HS Graduation Rate -- Is the xlsx file extracted from the graduation data as listed above.
 ```
 #### Merging and cleaning
 
